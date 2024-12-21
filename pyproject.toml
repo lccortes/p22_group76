@@ -1,0 +1,37 @@
+[project]
+name = "dtu-dl-p22"
+version = "0.1.0"
+description = "Multiview segmentation DTU Deep Learning p22"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "marimo>=0.9.14",
+    "markupsafe==2.1.5",
+    "matplotlib>=3.9.2",
+    "numpy>=1.26.3",
+    "opencv-python>=4.10.0.84",
+    "pandas>=2.2.3",
+    "pillow>=10.2.0",
+    "scikit-image>=0.24.0",
+    "scikit-learn>=1.5.2",
+    # with CUDA
+    "torch==2.4.1+cu124",
+    "torchvision==0.19.1+cu124",
+    # without CUDA (uncomment)
+    # "torch==2.4.1+cpu",
+    # "torchvision==0.19.1+cpu",
+    "tqdm>=4.67.0",
+]
+
+[tool.uv]
+index-strategy = "unsafe-best-match"
+# with CUDA
+extra-index-url = ["https://download.pytorch.org/whl/cu124"]
+
+# without CUDA (uncomment)
+# extra-index-url = ["https://download.pytorch.org/whl/cpu"]
+
+dev-dependencies = [
+    "pre-commit>=4.0.1",
+]

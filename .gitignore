@@ -1,0 +1,6 @@
+# ignore training and testing data
+data/
+*/__pycache__/
+training.log
+results/
+job_out/

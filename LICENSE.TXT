@@ -1,0 +1,22 @@
+LICENSE
+
+The data in this folder is property of the University of
+ Glasgow, Glasgow, Scotland.
+
+The Technical University of Denmark (DTU) is permitted to share 
+the data with students in course 02456 Deep Learning in the Fall 
+2024 semester under the supervision of Bjørn Sand Jensen. 
+
+Students at DTU, under the supervision of Bjørn Sand Jensen, 
+are permitted to use the data for project work in the course 
+02456 Deep Learning. Students must not share the data with 
+others and must delete any local copy of the data after 
+the intended use.
+
+ANY use of the data (including AI/ML models trained on the data)
+ beyond the purpose of the 02456 Deep Learning course is not
+ permitted without explicit written permission. 
+
+Contact: bjje@dtu.dk 
+
+
