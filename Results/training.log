@@ -1,0 +1,71 @@
+2024-11-29 00:14:09,690 Logging is configured correctly.
+2024-11-29 00:14:09,690 Using device: cpu
+2024-11-29 00:16:26,412 Logging is configured correctly.
+2024-11-29 00:16:26,412 Using device: cuda
+2024-11-29 00:29:52,291 Logging is configured correctly.
+2024-11-29 00:29:52,292 Using device: cuda
+2024-11-29 00:34:56,473 Logging is configured correctly.
+2024-11-29 00:34:56,473 Using device: cuda
+2024-11-29 00:39:01,056 Logging is configured correctly.
+2024-11-29 00:39:01,056 Using device: cuda
+2024-11-29 00:39:53,794 Logging is configured correctly.
+2024-11-29 00:39:53,795 Using device: cuda
+2024-11-29 00:57:35,406 Logging is configured correctly.
+2024-11-29 00:57:35,406 Using device: cuda
+2024-11-29 01:20:10,273 Logging is configured correctly.
+2024-11-29 01:20:10,273 Using device: cuda
+2024-11-29 01:45:14,005 Epoch [1/50], Train Loss: 2.0589, Val Loss: 2.4571, Val IoU: 0.2127, Val Dice: 0.3456, Val Accuracy: 0.5038
+2024-11-29 01:50:31,972 Epoch [2/50], Train Loss: 1.7966, Val Loss: 2.9982, Val IoU: 0.1093, Val Dice: 0.1958, Val Accuracy: 0.6859
+2024-11-29 01:55:48,963 Epoch [3/50], Train Loss: 1.7854, Val Loss: 2.8588, Val IoU: 0.0983, Val Dice: 0.1775, Val Accuracy: 0.7446
+2024-11-29 02:01:05,118 Epoch [4/50], Train Loss: 1.7821, Val Loss: 3.2641, Val IoU: 0.0419, Val Dice: 0.0797, Val Accuracy: 0.7646
+2024-11-29 02:06:21,756 Epoch [5/50], Train Loss: 1.7707, Val Loss: 2.9253, Val IoU: 0.0699, Val Dice: 0.1304, Val Accuracy: 0.7672
+2024-11-29 02:11:38,671 Epoch [6/50], Train Loss: 1.7574, Val Loss: 3.4341, Val IoU: 0.0444, Val Dice: 0.0849, Val Accuracy: 0.7730
+2024-11-29 02:16:55,584 Epoch [7/50], Train Loss: 1.7492, Val Loss: 3.1740, Val IoU: 0.1157, Val Dice: 0.2072, Val Accuracy: 0.7723
+2024-11-29 02:22:12,597 Epoch [8/50], Train Loss: 1.6367, Val Loss: 3.5282, Val IoU: 0.2388, Val Dice: 0.3779, Val Accuracy: 0.7599
+2024-11-29 02:27:30,509 Epoch [9/50], Train Loss: 1.4497, Val Loss: 3.8800, Val IoU: 0.2941, Val Dice: 0.4491, Val Accuracy: 0.7949
+2024-11-29 02:32:47,856 Epoch [10/50], Train Loss: 1.2317, Val Loss: 4.2046, Val IoU: 0.3254, Val Dice: 0.4887, Val Accuracy: 0.7688
+2024-11-29 02:38:06,571 Epoch [11/50], Train Loss: 1.0626, Val Loss: 3.6114, Val IoU: 0.4328, Val Dice: 0.5956, Val Accuracy: 0.8151
+2024-11-29 02:43:25,005 Epoch [12/50], Train Loss: 0.9716, Val Loss: 3.5338, Val IoU: 0.4477, Val Dice: 0.6095, Val Accuracy: 0.8177
+2024-11-29 02:48:42,060 Epoch [13/50], Train Loss: 0.9488, Val Loss: 3.6626, Val IoU: 0.4732, Val Dice: 0.6317, Val Accuracy: 0.8172
+2024-11-29 02:53:59,144 Epoch [14/50], Train Loss: 0.8750, Val Loss: 3.1571, Val IoU: 0.4681, Val Dice: 0.6271, Val Accuracy: 0.8209
+2024-11-29 02:59:15,786 Epoch [15/50], Train Loss: 0.8654, Val Loss: 2.8678, Val IoU: 0.4827, Val Dice: 0.6396, Val Accuracy: 0.8125
+2024-11-29 03:04:32,827 Epoch [16/50], Train Loss: 0.8415, Val Loss: 2.9281, Val IoU: 0.4760, Val Dice: 0.6346, Val Accuracy: 0.8307
+2024-11-29 03:09:49,680 Epoch [17/50], Train Loss: 0.8303, Val Loss: 2.9897, Val IoU: 0.4625, Val Dice: 0.6224, Val Accuracy: 0.8231
+2024-11-29 03:15:06,489 Epoch [18/50], Train Loss: 0.8164, Val Loss: 2.5789, Val IoU: 0.4812, Val Dice: 0.6351, Val Accuracy: 0.8307
+2024-11-29 03:20:23,228 Epoch [19/50], Train Loss: 0.8103, Val Loss: 2.8036, Val IoU: 0.4666, Val Dice: 0.6256, Val Accuracy: 0.8161
+2024-11-29 03:25:40,997 Epoch [20/50], Train Loss: 0.7904, Val Loss: 2.8618, Val IoU: 0.4801, Val Dice: 0.6328, Val Accuracy: 0.8352
+2024-11-29 03:30:58,492 Epoch [21/50], Train Loss: 0.7722, Val Loss: 2.5856, Val IoU: 0.4467, Val Dice: 0.6084, Val Accuracy: 0.8101
+2024-11-29 03:36:16,201 Epoch [22/50], Train Loss: 0.7673, Val Loss: 2.5252, Val IoU: 0.4738, Val Dice: 0.6308, Val Accuracy: 0.8180
+2024-11-29 03:41:33,695 Epoch [23/50], Train Loss: 0.7722, Val Loss: 2.6087, Val IoU: 0.4727, Val Dice: 0.6267, Val Accuracy: 0.8306
+2024-11-29 03:46:50,237 Epoch [24/50], Train Loss: 0.7735, Val Loss: 2.2953, Val IoU: 0.4863, Val Dice: 0.6426, Val Accuracy: 0.8269
+2024-11-29 03:52:07,795 Epoch [25/50], Train Loss: 0.7652, Val Loss: 2.4835, Val IoU: 0.4947, Val Dice: 0.6498, Val Accuracy: 0.8339
+2024-11-29 03:57:24,522 Epoch [26/50], Train Loss: 0.7713, Val Loss: 2.6511, Val IoU: 0.4911, Val Dice: 0.6435, Val Accuracy: 0.8429
+2024-11-29 04:02:41,283 Epoch [27/50], Train Loss: 0.7534, Val Loss: 2.7237, Val IoU: 0.4865, Val Dice: 0.6401, Val Accuracy: 0.8339
+2024-11-29 04:07:58,618 Epoch [28/50], Train Loss: 0.7559, Val Loss: 2.0741, Val IoU: 0.5031, Val Dice: 0.6613, Val Accuracy: 0.8251
+2024-11-29 04:13:15,766 Epoch [29/50], Train Loss: 0.7591, Val Loss: 2.2101, Val IoU: 0.4855, Val Dice: 0.6414, Val Accuracy: 0.8341
+2024-11-29 04:18:32,912 Epoch [30/50], Train Loss: 0.7542, Val Loss: 2.8677, Val IoU: 0.4849, Val Dice: 0.6398, Val Accuracy: 0.8498
+2024-11-29 04:23:50,170 Epoch [31/50], Train Loss: 0.7379, Val Loss: 2.4063, Val IoU: 0.4768, Val Dice: 0.6410, Val Accuracy: 0.7719
+2024-11-29 04:29:07,794 Epoch [32/50], Train Loss: 0.7395, Val Loss: 2.6875, Val IoU: 0.4811, Val Dice: 0.6361, Val Accuracy: 0.8337
+2024-11-29 04:34:25,850 Epoch [33/50], Train Loss: 0.7446, Val Loss: 2.5522, Val IoU: 0.4755, Val Dice: 0.6284, Val Accuracy: 0.8210
+2024-11-29 04:39:44,027 Epoch [34/50], Train Loss: 0.7324, Val Loss: 2.4548, Val IoU: 0.4447, Val Dice: 0.6132, Val Accuracy: 0.7805
+2024-11-29 04:45:02,297 Epoch [35/50], Train Loss: 0.7339, Val Loss: 2.6614, Val IoU: 0.4397, Val Dice: 0.6021, Val Accuracy: 0.8122
+2024-11-29 04:50:20,244 Epoch [36/50], Train Loss: 0.7263, Val Loss: 2.8745, Val IoU: 0.4783, Val Dice: 0.6295, Val Accuracy: 0.8341
+2024-11-29 04:55:38,247 Epoch [37/50], Train Loss: 0.7225, Val Loss: 2.8042, Val IoU: 0.4791, Val Dice: 0.6328, Val Accuracy: 0.8436
+2024-11-29 05:00:55,600 Epoch [38/50], Train Loss: 0.7168, Val Loss: 2.1803, Val IoU: 0.5055, Val Dice: 0.6669, Val Accuracy: 0.8225
+2024-11-29 05:06:12,897 Epoch [39/50], Train Loss: 0.7273, Val Loss: 2.9236, Val IoU: 0.4693, Val Dice: 0.6234, Val Accuracy: 0.8404
+2024-11-29 05:11:30,164 Epoch [40/50], Train Loss: 0.7189, Val Loss: 2.0860, Val IoU: 0.4720, Val Dice: 0.6296, Val Accuracy: 0.8319
+2024-11-29 05:16:47,226 Epoch [41/50], Train Loss: 0.7058, Val Loss: 2.5833, Val IoU: 0.4866, Val Dice: 0.6382, Val Accuracy: 0.8339
+2024-11-29 05:22:04,336 Epoch [42/50], Train Loss: 0.6921, Val Loss: 2.6043, Val IoU: 0.4884, Val Dice: 0.6381, Val Accuracy: 0.8310
+2024-11-29 05:27:21,828 Epoch [43/50], Train Loss: 0.6952, Val Loss: 2.3930, Val IoU: 0.4858, Val Dice: 0.6406, Val Accuracy: 0.8408
+2024-11-29 05:32:39,391 Epoch [44/50], Train Loss: 0.6893, Val Loss: 2.4413, Val IoU: 0.4885, Val Dice: 0.6409, Val Accuracy: 0.8303
+2024-11-29 05:37:57,086 Epoch [45/50], Train Loss: 0.6929, Val Loss: 2.4658, Val IoU: 0.4877, Val Dice: 0.6407, Val Accuracy: 0.8367
+2024-11-29 05:43:14,974 Epoch [46/50], Train Loss: 0.6961, Val Loss: 2.1745, Val IoU: 0.4652, Val Dice: 0.6241, Val Accuracy: 0.8257
+2024-11-29 05:48:32,790 Epoch [47/50], Train Loss: 0.6884, Val Loss: 2.4608, Val IoU: 0.4910, Val Dice: 0.6431, Val Accuracy: 0.8424
+2024-11-29 05:53:50,658 Epoch [48/50], Train Loss: 0.6838, Val Loss: 2.6212, Val IoU: 0.4865, Val Dice: 0.6362, Val Accuracy: 0.8401
+2024-11-29 05:59:07,885 Epoch [49/50], Train Loss: 0.6816, Val Loss: 2.5473, Val IoU: 0.4600, Val Dice: 0.6148, Val Accuracy: 0.8153
+2024-11-29 06:04:24,459 Epoch [50/50], Train Loss: 0.6888, Val Loss: 2.4334, Val IoU: 0.4814, Val Dice: 0.6338, Val Accuracy: 0.8344
+2024-11-29 06:04:25,111 Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.37117907..2.5702832].
+2024-11-29 06:04:25,641 Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.5424266..2.6051416].
+2024-11-29 06:04:26,259 Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.5424266..2.5702832].
+2024-11-29 06:04:26,690 Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.45680285..2.6051416].
+2024-11-29 06:04:27,121 Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-0.38830382..2.4308496].
